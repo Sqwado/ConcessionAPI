@@ -1,0 +1,36 @@
+# Environnements virtuels
+venv/
+env/
+
+# Fichiers compilés Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Paramètres d'environnement
+.env
+
+# Configurations IDE/éditeur
+.vscode/
+.idea/
+*.swp
+*~
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Migrations SQL
+db.sqlite3
+*.sqlite3
+
+# Fichiers temporaires
+*.tmp
+
+# Archivage
+*.zip
+*.tar.gz
